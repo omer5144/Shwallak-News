@@ -1,4 +1,4 @@
-# Project-WebApp
+# Shwallak News
 
 Welcome to the new website called Shwallak, where you can find a lot interasting articles with a variety of sections such as sports and fashion.
 
